@@ -1,0 +1,23 @@
+{
+	"name":"AvGEM",
+	"short_name":"AvGEM",
+	"start_url":"index.html",
+	"display":"standalone",
+	"background_color":"#000000",
+	"theme_color":"black",
+	"scope": ".",
+	"description":"second One",
+	"icons":[
+	{
+	"src":"images/hw.jpg",					
+	"sizes":"192x192",
+	"type":"image/jpg"
+	},
+	{
+	"src":"images/icon.png",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
+
